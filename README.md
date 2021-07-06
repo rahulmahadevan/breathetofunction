@@ -1,2 +1,2 @@
 # breathetofunction
-This repo contains informational website about Breathe - To Function
+This repo contains code for main website of Breathe - To Function
