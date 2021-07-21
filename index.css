@@ -15,7 +15,7 @@ html, body {
 
 .header {
     overflow: hidden;
-    background-color: #083D77;
+    background-color: #0619A4;
     padding: 20px 10px;
 }
 
@@ -67,7 +67,7 @@ html, body {
 .logo-container > h1 {
     text-align: center;
     font-size: 45px;
-    color: #083D77;
+    color: #0619A4;
 }
 
 .header a {
